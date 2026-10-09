@@ -1,4 +1,4 @@
-// Token simulado con alta entropía para activar Push Protection
-const GITHUB_TOKEN = "ghp_kJ8f9xL2mN5qP0vR4sT7uW1zA3bC5dE6fG7h";
+// Probando Push Protection con un token real de GitHub
+const GITHUB_TOKEN = "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";
 
-console.log("Modulo cargado");
+console.log("Token cargado");
