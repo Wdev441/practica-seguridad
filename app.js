@@ -1,4 +1,5 @@
-// Probando Push Protection con un token real de GitHub
-const GITHUB_TOKEN = "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";
+// Código seguro: las credenciales se leen desde variables de entorno (.env)
+const DB_USER = process.env.DB_USER || "usuario_por_defecto";
+const DB_PASSWORD = process.env.DB_PASSWORD;
 
-console.log("Token cargado");
+console.log("Conectando de forma segura a la base de datos con el usuario:", DB_USER);
