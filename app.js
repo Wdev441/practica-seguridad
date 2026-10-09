@@ -1,4 +1,4 @@
-// Simulación de credencial real para el detector
-const GITHUB_TOKEN = "ghp_000000000000000000000000000000000000";
+// Token simulado con alta entropía para activar Push Protection
+const GITHUB_TOKEN = "ghp_kJ8f9xL2mN5qP0vR4sT7uW1zA3bC5dE6fG7h";
 
-console.log("Token cargado correctamente");
+console.log("Modulo cargado");
