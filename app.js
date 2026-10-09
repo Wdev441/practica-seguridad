@@ -1,5 +1,4 @@
-// Node.js
-const DB_USER = "admin";
-const DB_PASSWORD = "G4T3W4Y#712"; // ⚠️ MALA PRÁCTICA: Credencial expuesta
+// Simulación de credencial real para el detector
+const GITHUB_TOKEN = "ghp_000000000000000000000000000000000000";
 
-console.log("Conectando a la base de datos con el usuario:", DB_USER);
+console.log("Token cargado correctamente");
